@@ -1,0 +1,9 @@
+.col-4{
+    overflow-y: scroll;
+}
+.list-group {
+    position: absolute;
+}
+.row{
+    height: 607px;
+}
